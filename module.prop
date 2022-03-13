@@ -1,0 +1,6 @@
+id=POP-ZRAM
+name=POP-ZRAM
+version=v1.0
+versionCode=0
+author=@Siimsek
+description=POP-ZRAM enables ZRAM and makes it 4 Gigabyte on your device!
