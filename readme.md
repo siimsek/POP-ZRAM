@@ -1,6 +1,6 @@
 # POP-ZRAM ~ Magisk Module
 Enable ZRAM with 4GB in your device!
-### -What is Z ram on android?
+### -What is ZRAM on android?
 
 >ZRAM swap can increase the amount of memory available in the system by compressing memory pages and putting them in dynamically allocated swap area of memory.
 [ZRAM - Wiki](https://en.wikipedia.org/wiki/Zram)
