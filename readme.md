@@ -1,4 +1,4 @@
-# POP-ZRAM
+# POP-ZRAM ~ Magisk Module
 Enable ZRAM with 4GB in your device!
 ### -What is Z ram on android?
 
