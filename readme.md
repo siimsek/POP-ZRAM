@@ -1,5 +1,5 @@
 # POP-ZRAM ~ Magisk Module
-Enable ZRAM with 4GB in your device!
+Enable ZRAM with up to 8GB on your device! (Choose 4GB, 6GB or 8GB using volume keys during installation).
 ### -What is ZRAM on android?
 
 >ZRAM swap can increase the amount of memory available in the system by compressing memory pages and putting them in dynamically allocated swap area of memory.
